@@ -1,4 +1,4 @@
-# RNA-FM: The RNA Foundation Model
+# RNA-FM: The RNA Foundation Model 
 [![Pic](./docs/pics/RNA-FM.png)](https://proj.cse.cuhk.edu.hk/rnafm/#/)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2204.00300-b31b1b.svg)](https://arxiv.org/abs/2204.00300)
